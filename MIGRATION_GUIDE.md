@@ -173,3 +173,5 @@ export { getShardOfAddress };`
   - some new types were added, related to UI elements, like [MvxCopyButtonPropsType](https://github.com/multiversx/mx-template-dapp/blob/a98cadfc291321e9874acd7e53632a6b43ca8c59/src/lib/sdkDapp/components/CopyButton/CopyButton.tsx#L2)
 
 <!-- Auto-update: 2025-10-15T16:27:32.555515 -->
+
+<!-- Auto-update: 2025-10-16T10:59:08.022428 -->
